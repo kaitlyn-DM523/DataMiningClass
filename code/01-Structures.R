@@ -1,6 +1,6 @@
 ## 01-Structures.R
 # Code from 01-structures
-
+#basic math
 5 + 5
 4 - 1
 1 * 2
